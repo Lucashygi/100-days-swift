@@ -36,9 +36,9 @@ print(address.city) // Output: London
 ## Arrays vs Sets vs Tuples
 
 **Explanation:**  
-	•	Use arrays for ordered collections of data with duplicates.
-	•	Use sets for unique, unordered data.
-	•	Use tuples for fixed, related values of different types.
+- Use arrays for ordered collections of data with duplicates.
+- Use sets for unique, unordered data.
+- Use tuples for fixed, related values of different types.
 
 **Example:**  
 ```swift
